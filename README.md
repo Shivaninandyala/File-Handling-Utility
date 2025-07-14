@@ -4,11 +4,11 @@
 
 *NAME*: Nandyala Shivani
 
-*INTERN ID* : COD08111
+*INTERN ID* : CT06DM899
 
-*DOMAIN* : 
+*DOMAIN* : JAVA
 
-*DURATION* : 4 WEEKS
+*DURATION* : 6 WEEKS
 
 *MENTOR* : NEELA SANTOSH
 
@@ -28,5 +28,5 @@ A Java console-based utility to **read**, **write**, and **modify** text files. 
 ## 🚀 How to Run
 
 ```bash
-javac FileHandler.java
-java -cp FileHandler
+javac src/FileHandler.java
+java -cp src FileHandler
