@@ -1,0 +1,6 @@
+```gitignore
+*.class
+*.log
+*.tmp
+*.bak
+.DS_Store
